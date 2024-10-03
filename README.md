@@ -12,6 +12,7 @@ Welcome to the **Chinook Database Coding Challenges** repository! This project i
   - [Challenge 3: Invoices and Line Items](#challenge-3-invoices-and-line-items)
   - [Challenge 4: Advanced Query](#challenge-4-advanced-query)
 - [Getting Started](#getting-started)
+- [Additional Resources](#additional-resources)
   
 ---
 
@@ -102,3 +103,6 @@ If this repository is set up as a template, you can create your own repository u
 3. Follow the prompts to create a new repository based on this template.
 4. After creating your new repository, clone it to your local machine and follow the steps in the **Project Setup** section to configure your environment.
 
+## Additional Resources
+
+- [Chinook Database Documentation](https://github.com/lerocha/chinook-database)
