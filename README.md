@@ -91,19 +91,14 @@ This website contains all the information you need to get your environment ready
 
 ### Option 1: Clone the Repository
 
-To get started, you can clone this repository to your local machine by using the `git clone` command. Navigate into the project directory and follow the steps in the **Project Setup** section to configure your environment.
+To get started, you can clone this repository to your local machine by using the `git clone` command. 
 
 ### Option 2: Use the Project Template
 
 If this repository is set up as a template, you can create your own repository using the project template:
 
-1. Navigate to the repository on GitHub: [Chinook Database Challenges](https://github.com/your-username/chinook-database-challenges).
+1. Navigate to the repository on GitHub: [Chinook Database Challenges](https://github.com/CoderFoundry/ChinookInterviewYT).
 2. Click the **"Use this template"** button.
 3. Follow the prompts to create a new repository based on this template.
 4. After creating your new repository, clone it to your local machine and follow the steps in the **Project Setup** section to configure your environment.
 
-
-1. Navigate to the repository on GitHub: [Chinook Database Challenges](https://github.com/your-username/chinook-database-challenges).
-2. Click the **"Use this template"** button.
-3. Follow the prompts to create a new repository based on this template.
-4. After creating your new repository, clone it to your local machine and follow the steps in the **Project Setup** section to configure your environment.
