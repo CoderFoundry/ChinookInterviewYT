@@ -21,7 +21,7 @@ The Chinook Database Coding Challenges are designed to test your skills in SQL a
 
 This repository includes several challenges of varying difficulty levels to help you prepare for technical interviews. Each challenge focuses on a different aspect of querying the Chinook database.
 
-Visit the challenge website for more details: [Chinook Challenges](https://chinook.coderfoundry.com).
+Visit the challenge website for more details: [Chinook Challenges](https://chinook.coderfoundry.com) _(Ctrl+Click to open in a new tab)_
 
 ---
 
@@ -54,7 +54,7 @@ Visit the challenge website for more details: [Chinook Challenges](https://chino
     - Line items (track title, unit price, quantity)
   - **Extra Credit**:
     - Add a dropdown filter to select a customer and view their invoices.
-    - Implement collapsible invoice rows that toggle visibility of line items.
+    - Implement collapsible invoice rows that toggle the visibility of line items.
     - Automatically calculate and display the total invoice amount.
 
 ### Challenge 4: Advanced Query
@@ -79,7 +79,7 @@ To complete these challenges, you'll need:
 ### Setup Instructions
 
 For detailed setup instructions, including database configuration, project setup, and troubleshooting tips, visit the **Chinook Challenges website**:  
-[Chinook Challenges Setup Instructions](https://chinook.coderfoundry.com)
+[Chinook Challenges Setup Instructions](https://chinook.coderfoundry.com) _(Ctrl+Click to open in a new tab)_
 
 This website contains all the information you need to get your environment ready to solve the challenges, including how to:
 - Install necessary dependencies
