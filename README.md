@@ -1,3 +1,5 @@
+<img src="https://chinook.coderfoundry.com/images/chinook_brand_3.png" alt="Chinook Challenges Logo" width="200">
+
 # Chinook Database Coding Challenges
 
 Welcome to the **Chinook Database Coding Challenges** repository! This project is designed to help students in our coding bootcamp practice their SQL and C# skills by solving real-world problems based on the Chinook database.
