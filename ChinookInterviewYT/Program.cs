@@ -13,6 +13,8 @@ builder.Services.AddRazorComponents()
 //    options.UseNpgsql(builder.Configuration.GetConnectionString("DbConnection"));
 //});
 
+builder.Services.AddHttpClient();
+
 // Add Swagger for API documentation
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
