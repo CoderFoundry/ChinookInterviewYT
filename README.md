@@ -80,7 +80,7 @@ To complete these challenges, you'll need:
 ### Setup Instructions
 
 For detailed setup instructions, including database configuration, project setup, and troubleshooting tips, visit the **Chinook Challenges website**:  
-[Chinook Challenges Setup Instructions](https://chinook.coderfoundry.com) _(Ctrl+Click to open in a new tab)_
+[Chinook Challenges Setup Instructions](https://chinook.coderfoundry.com/SetupGuide) _(Ctrl+Click to open in a new tab)_
 
 This website contains all the information you need to get your environment ready to solve the challenges, including how to:
 - Install necessary dependencies
