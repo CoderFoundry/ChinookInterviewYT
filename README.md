@@ -35,7 +35,7 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
 
 ### Challenge 1: Warm-up
 
-- **Objective**: Get familiar with the Chinook database by writing a simple SQL query that retrieves a list of all artists.
+- **Objective**: Get familiar with the Chinook database by writing a simple SQL query that retrieves a list of all customers.
 - **Requirements**:
   - Write an SQL query to fetch the artist names.
   - Order the result by artist name in ascending order.
