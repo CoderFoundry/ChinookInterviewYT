@@ -65,11 +65,10 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
 
 ### Challenge 4: Advanced Query
 
-- **Objective**: Solve a more advanced SQL challenge that involves joining multiple tables and performing aggregations on the Chinook database.
+- **Objective**: Analyze Customer Purchasing Behavior
 - **Requirements**:
-  - Write an SQL query to get the total sales per genre.
-  - Include the genre name and the total amount spent for each genre.
-  - **Order**: Sort the results by the total sales amount in descending order.
+  - Write a query that retrieves a list of customers, the total number of invoices for each customer, and the total amount they have spent across all invoices. 
+  - **Filter and Ordering**: Only include customers who have spent more than $40. Order the results by the total amount spent in descending order.
 
 ---
 
