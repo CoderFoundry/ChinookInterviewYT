@@ -27,7 +27,7 @@ Visit the challenge website for more details: [Chinook Challenges](https://chino
 
 ---
 ## YouTube Tutorial
-Check out our [YouTube tutorial](https://www.youtube.com/watch?v=example) for a step-by-step guide on how to get started with the Chinook Database Coding Challenges.
+Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-step guide on how to get started with the Chinook Database Coding Challenges.
 
 ## Challenges
 
