@@ -39,6 +39,10 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
 - **Requirements**:
   - Write an SQL query to fetch the artist names.
   - Order the result by artist name in ascending order.
+- **Extra Credit**:
+  - Pagination: Implement pagination on the web page to display a limited number of customer records per page (e.g., 10 or 20 per page). Add navigation buttons (Next/Previous) to move between pages.
+  - Search Functionality: Add a search bar to filter customers by their first name, last name, or email address.
+  - Combine first name and last name to return a full name column
   
 ### Challenge 2: Artists, Albums, and Tracks
 
@@ -49,6 +53,10 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
     - Album title
     - Track title
   - **Order**: The result should be ordered by artist name, album title, and track title.
+  - **Extra Credit**:
+    - Album Artwork: Display mock album covers alongside each album (you can use placeholder images or link to real album art if available).
+    - Track Duration: Add the total duration of each album by summing up the track lengths (in milliseconds) for each album and displaying it.
+    - Pagination: Implement pagination on the web page to display a limited number of customer records per page (e.g., 10 or 20 per page). Add navigation buttons (Next/Previous) to move between pages.
 
 ### Challenge 3: Invoices and Line Items
 
@@ -69,6 +77,9 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
 - **Requirements**:
   - Write a query that retrieves a list of customers, the total number of invoices for each customer, and the total amount they have spent across all invoices. 
   - **Filter and Ordering**: Only include customers who have spent more than $40. Order the results by the total amount spent in descending order.
+  - **Extra Credit**:
+    - Percentage Contribution: Display the percentage of the total store revenue each customer’s spending represents, giving an overview of how much each customer contributes to total sales.
+    - Top 5 Customers Chart: Create an additional chart or graph highlighting the top 5 highest-spending customers, making the data visually clear and easy to analyze.
 
 ---
 
