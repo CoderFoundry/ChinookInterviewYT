@@ -59,9 +59,9 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
     - Invoice details (date, total amount)
     - Line items (track title, unit price, quantity)
   - **Extra Credit**:
-    - Add a dropdown filter to select a customer and view their invoices.
-    - Implement collapsible invoice rows that toggle the visibility of line items.
+    - Add a dropdown filter to select a customer and view their invoices.   
     - Automatically calculate and display the total invoice amount.
+    - Pagination: Implement pagination on the web page to display a limited number of customer records per page (e.g., 10 or 20 per page). Add navigation buttons (Next/Previous) to move between pages.
 
 ### Challenge 4: Advanced Query
 
