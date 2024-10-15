@@ -6,6 +6,7 @@ Welcome to the **Chinook Database Coding Challenges** repository! This project i
 
 ## Table of Contents
 - [Overview](#overview)
+- [YouTube Tutorial](#youtube-tutorial)
 - [Challenges](#challenges)
   - [Challenge 1: Warm-up](#challenge-1-warm-up)
   - [Challenge 2: Artists, Albums, and Tracks](#challenge-2-artists-albums-and-tracks)
@@ -25,6 +26,8 @@ This repository includes several challenges of varying difficulty levels to help
 Visit the challenge website for more details: [Chinook Challenges](https://chinook.coderfoundry.com) _(Ctrl+Click to open in a new tab)_
 
 ---
+## YouTube Tutorial
+Check out our [YouTube tutorial](https://www.youtube.com/watch?v=example) for a step-by-step guide on how to get started with the Chinook Database Coding Challenges.
 
 ## Challenges
 
