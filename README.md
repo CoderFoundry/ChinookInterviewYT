@@ -37,7 +37,7 @@ Check out our [YouTube tutorial](https://youtu.be/wf6GbP5IL_I) for a step-by-ste
 
 - **Objective**: Get familiar with the Chinook database by writing a simple SQL query that retrieves a list of all customers.
 - **Requirements**:
-  - Write an SQL query to fetch the artist names.
+  - Write a query to fetch the artist names.
   - Order the result by artist name in ascending order.
 - **Extra Credit**:
   - Pagination: Implement pagination on the web page to display a limited number of customer records per page (e.g., 10 or 20 per page). Add navigation buttons (Next/Previous) to move between pages.
